@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I love turning complex data into simple, powerful insights—when I'm not coding, you’ll probably find me solving puzzles or exploring nature!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with my profiles:</h3>
 <p align="left">
 <a href="https://dev.to/fahmitha_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fahmitha_04" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fahmitha farhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahmitha farhana" height="30" width="40" /></a>
