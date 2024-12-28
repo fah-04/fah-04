@@ -38,7 +38,7 @@ Web Development/Others:
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=fah-04&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
-  <img width=330 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fah-04&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs"/>
+  <img width=330 src="https://github-readme-stats.vercel.app/api/top-langs/?username=fah-04&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs"/>
 </div>
   <br/>
 <p align="center">
@@ -59,6 +59,6 @@ Web Development/Others:
  
  [![An image of @fah04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fah04)](https://holopin.io/@fah04)
 
- 
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" />
 
 
