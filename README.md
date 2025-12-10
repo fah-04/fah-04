@@ -15,15 +15,15 @@
 
 <h3 align="left">Connect with my profiles:</h3>
 <p align="left">
-<a href="https://dev.to/fahmitha_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fahmitha_04" height="30" width="40" /></a>
+<a href="https://dev.to/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fahmitha_04" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fahmitha farhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahmitha farhana" height="30" width="40" /></a>
-<a href="https://kaggle.com/fahmitha farhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fahmitha farhana" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/fahmitha12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="fahmitha12" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/fahmifarhana12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fahmifarhana12" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/fahmitha04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="fahmitha04" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/fahmitha4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fahmitha4" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/fahmifarhana12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="fahmifarhana12" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/fahmifar288k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="fahmifar288k" height="30" width="40" /></a>
+<a href="https://kaggle.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fahmitha farhana" height="30" width="40" /></a>
+<a href="https://www.codechef.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="fahmitha12" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fahmifarhana12" height="30" width="40" /></a>
+<a href="https://codeforces.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="fahmitha04" height="30" width="40" /></a>
+<a href="https://www.leetcode.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fahmitha4" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="fahmifarhana12" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="fahmifar288k" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">🛠 Tech Stack</h2>
