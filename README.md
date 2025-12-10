@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there, I'm Fahmitha Farhana👋</h1>
-<h3 align="center">Fahmitha is a lifelong learner passionate about AI, coding, and creating thoughtful digital experiences. When she isn't deep in a project, she's out in nature, exploring new destinations, or relaxing with a quiet moment under the open sky.</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=fah-04&label=Profile%20views&color=0e75b6&style=flat" alt="fah-04" /> </p>
+<h5 align="center">Fahmitha is a lifelong learner passionate about AI, coding, and creating thoughtful digital experiences. When she isn't deep in a project, she's out in nature, exploring new destinations, or relaxing with a quiet moment under the open sky✨.</h5> <p align="left"> <img src="https://komarev.com/ghpvc/?username=fah-04&label=Profile%20views&color=0e75b6&style=flat" alt="fah-04" /> </p>
 
 
 - 🌱 I’m currently **an active open source contributor, aspiring AI&ML Engineer, competitive programmer and more**
